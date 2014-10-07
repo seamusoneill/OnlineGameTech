@@ -1,0 +1,28 @@
+﻿Build started 07/10/2014 11:11:01.
+     1>Project "C:\Users\lab422\Documents\Lab Work\Online Game Tech\Lab2 - Tag\Lab2 - Tag\Lab2 - Tag.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Player.cpp main.cpp
+         main.cpp
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2327: 'Player::m_posX' : is not a type name, static, or enumerator
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2065: 'm_posX' : undeclared identifier
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2327: 'Player::m_posY' : is not a type name, static, or enumerator
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2065: 'm_posY' : undeclared identifier
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2923: 'std::pair' : 'm_posX' is not a valid template type argument for parameter '_Ty1'
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2923: 'std::pair' : 'm_posY' is not a valid template type argument for parameter '_Ty2'
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2208: 'std::pair' : no members defined using this type
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): fatal error C1903: unable to recover from previous error(s); stopping compilation
+         Player.cpp
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2327: 'Player::m_posX' : is not a type name, static, or enumerator
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2065: 'm_posX' : undeclared identifier
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2327: 'Player::m_posY' : is not a type name, static, or enumerator
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2065: 'm_posY' : undeclared identifier
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2923: 'std::pair' : 'm_posX' is not a valid template type argument for parameter '_Ty1'
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2923: 'std::pair' : 'm_posY' is not a valid template type argument for parameter '_Ty2'
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): error C2208: 'std::pair' : no members defined using this type
+     1>c:\users\lab422\documents\lab work\online game tech\lab2 - tag\lab2 - tag\player.h(12): fatal error C1903: unable to recover from previous error(s); stopping compilation
+         Generating Code...
+     1>Done Building Project "C:\Users\lab422\Documents\Lab Work\Online Game Tech\Lab2 - Tag\Lab2 - Tag\Lab2 - Tag.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.30
